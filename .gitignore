@@ -1,0 +1,10 @@
+# Ignore Windows temporary files
+Thumbs.db
+Desktop.ini
+
+# Ignore log files
+*.log
+
+# Ignore local PowerShell profile/history if any
+*.ps1~
+*.tmp
